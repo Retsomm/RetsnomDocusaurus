@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1451],{9538:s=>{s.exports=JSON.parse('{"label":"animate","permalink":"/RetsnomDocusaurus/blog/tags/animate","allTagsPath":"/RetsnomDocusaurus/blog/tags","count":6,"unlisted":false}')}}]);

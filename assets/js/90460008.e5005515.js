@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7460],{2354:s=>{s.exports=JSON.parse('{"label":"life","permalink":"/RetsnomDocusaurus/blog/tags/life","allTagsPath":"/RetsnomDocusaurus/blog/tags","count":8,"unlisted":false}')}}]);
